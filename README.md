@@ -2,5 +2,5 @@
 
 ## Estudiante: Guido Siverio
 
-![mi foto](Yo.png)
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
+
+![mi foto](Yo.png) Hola! Soy Guido Siverio, tengo 22 años y soy de Banfield (Zona Sur). Hace 2 años estudiaba ingeniería química, pero me di cuenta que no era lo mio (es un quilombo jaja) y me cambie a ingeniería en sistemas de información. Ahora con la cuarentena me la paso sentado en la computadora programando, trabajando y jugando al cs cuando me sobra algo de tiempo.
